@@ -1,3 +1,4 @@
+
 $(document).ready(function () {
     var floorPath= $(".home-image path");
     var currentFloor= 2;
